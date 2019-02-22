@@ -1,0 +1,13 @@
+{
+  "name": "hibp-breach-lister-cli",
+  "version": "1.0.0",
+  "description": "Feed a bunch of emails to the script and have all the breaches outputted",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Ming Tang",
+  "license": "Apachei License 2.0"
+}
