@@ -1,7 +1,7 @@
 {
   "name": "hibp-breach-lister-cli",
   "version": "1.0.0",
-  "description": "Feed a bunch of emails to the script and have all the breaches outputted",
+  "description": "Script to bulk check emails for breaches via https://haveibeenpwned.com/",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.18.0"

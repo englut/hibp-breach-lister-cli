@@ -1,5 +1,5 @@
 # hibp-breach-lister-cli
-Feed a bunch of emails to the script and have all the breaches outputted
+Script to bulk check emails for breaches via https://haveibeenpwned.com/
 
 ---
 # How to use
