@@ -1,5 +1,5 @@
 # DEPRECATED
-This codebase is deprecated. Repository has been relocated to [Codeberg](https://codeberg.org/quaff/hibp-breach-lister-cli) and the tool has been rewritten in Rust.
+This codebase is deprecated. Repository has been relocated to [Sourcehut](https://sr.ht/~quaff/hibp-breach-lister-cli) and the tool has been rewritten in Rust.
 
 ---
 
